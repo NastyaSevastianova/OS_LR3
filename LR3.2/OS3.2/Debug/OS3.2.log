@@ -1,0 +1,4 @@
+﻿  OS3.2.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+c:\users\nikit\onedrive\рабочий стол\os3.2\os3.2\os3.2.cpp(30): warning C4018: <: несоответствие типов со знаком и без знака
+  OS3.2.vcxproj -> C:\Users\nikit\OneDrive\Рабочий стол\OS3.2\Debug\OS3.2.exe
